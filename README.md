@@ -2,4 +2,4 @@
 
 Hi Everyone!
 
-animagr here. I am learning python and plan to upload my practice scripts and programs here.
+ektorasgr here. I am learning python and plan to upload my practice scripts and programs here.
